@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @galij20
+- 👋 Hi, I’m Galij Sunuwar.
 - 👀 I’m interested in Linux and FOSS. 
 - 🌱 I’m currently learning Full Stack Development and Linux. 
 - 💞️ I’m looking to collaborate on ...
